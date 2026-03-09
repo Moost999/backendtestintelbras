@@ -1,0 +1,11 @@
+{
+    "userId": 100,
+    "name": "João Silva",
+    "userType": 0,
+    "authority": 1,
+    "password": "senha123",
+    "doors": [1],
+    "timeSections": [1],
+    "validFrom": "2023-01-01T00:00:00",
+    "validTo": "2024-12-31T23:59:59"
+}
